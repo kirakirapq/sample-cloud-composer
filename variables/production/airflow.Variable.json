@@ -1,0 +1,10 @@
+{
+  "module_path": "/home/airflow/gcs/plugins/modules/",
+  "sql_path": "/home/airflow/gcs/data/sql/",
+  "config_path": "/home/airflow/gcs/data/configs/",
+  "slack_subject": "Dag:{0[Dag]} - Push通知",
+  "slack_url": "https://hooks.slack.com/services/*****",
+  "slack_channel": "your-slack-channel-name",
+  "slack_failure_text": "/home/airflow/gcs/data/slack/slack_failure_text.txt",
+  "slack_success_text": "/home/airflow/gcs/data/slack/slack_success_text.txt"
+}
